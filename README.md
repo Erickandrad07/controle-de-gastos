@@ -1,12 +1,15 @@
+
 # 💰 MeuBolso — Controle Financeiro
 
 <div align="center">
 
-### Uma forma simples de organizar suas finanças pessoais.
+### 🚀 Controle suas finanças de maneira simples, prática e organizada!
 
-O MeuBolso é uma aplicação web para registrar receitas, despesas e acompanhar o saldo disponível.
+Aplicação web para registrar receitas, despesas e acompanhar o saldo financeiro pessoal.
 
 <br>
+
+### 🌐 ACESSE O APLICATIVO
 
 <a href="https://erickandrad07.github.io/controle-de-gastos/">
   <img src="https://img.shields.io/badge/TESTAR%20APLICATIVO-28A745?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Testar aplicativo">
@@ -14,7 +17,7 @@ O MeuBolso é uma aplicação web para registrar receitas, despesas e acompanhar
 
 <br><br>
 
-**[Acessar o MeuBolso](https://erickandrad07.github.io/controle-de-gastos/)**
+**👉 [CLIQUE AQUI PARA ABRIR O MEUBOLSO](https://erickandrad07.github.io/controle-de-gastos/)**
 
 <br>
 
@@ -30,9 +33,9 @@ O MeuBolso é uma aplicação web para registrar receitas, despesas e acompanhar
 
 <div align="center">
 
-<img src="meubolso.png" alt="Tela do aplicativo MeuBolso" width="100%">
+<img src="meubolso.png" alt="Interface completa do MeuBolso" width="100%">
 
-*Interface do MeuBolso*
+<p><em>Interface do MeuBolso — Controle Financeiro</em></p>
 
 </div>
 
@@ -40,39 +43,53 @@ O MeuBolso é uma aplicação web para registrar receitas, despesas e acompanhar
 
 ## 📌 Sobre o Projeto
 
-O **MeuBolso** é um projeto de controle financeiro pessoal desenvolvido com HTML, CSS e JavaScript.
+O **MeuBolso** é uma aplicação web desenvolvida para facilitar o controle financeiro pessoal.
 
-A aplicação permite registrar entradas e saídas de dinheiro e acompanhar o saldo atualizado, reunindo as principais informações financeiras em uma única tela.
+Com uma interface simples e intuitiva, o usuário pode registrar receitas e despesas, acompanhar suas movimentações e visualizar o saldo disponível.
 
-Criei este projeto para praticar conceitos de desenvolvimento web e entender melhor como trabalhar com formulários, eventos, cálculos e armazenamento de informações no navegador.
+Este projeto integra meu portfólio de estudos em **Análise e Desenvolvimento de Sistemas (ADS)**, permitindo aplicar conceitos fundamentais de programação e desenvolvimento web.
 
-O projeto faz parte do meu portfólio de estudos em Análise e Desenvolvimento de Sistemas.
+### 🎯 Objetivos do Projeto
+
+- Desenvolver habilidades práticas em HTML, CSS e JavaScript.
+- Trabalhar com lógica de programação.
+- Praticar manipulação do DOM.
+- Implementar cálculos e atualização dinâmica de valores.
+- Utilizar armazenamento local de informações.
+- Desenvolver interfaces responsivas.
+- Aprimorar a organização do código.
 
 ---
 
 ## ⚙️ Funcionalidades
 
-- **Cadastro de receitas:** registro de valores recebidos.
-- **Cadastro de despesas:** registro de gastos.
-- **Saldo atualizado:** cálculo automático com base nas movimentações cadastradas.
-- **Resumo financeiro:** visualização dos totais de receitas e despesas.
-- **Histórico de movimentações:** consulta aos registros adicionados.
-- **Exclusão de registros:** remoção de movimentações cadastradas.
-- **Armazenamento local:** os dados ficam salvos no navegador por meio do `localStorage`.
-- **Layout responsivo:** interface adaptável a diferentes tamanhos de tela.
+| Funcionalidade | Descrição |
+|---|---|
+| 💵 Registrar receitas | Cadastrar entradas financeiras. |
+| 💸 Registrar despesas | Cadastrar gastos e saídas financeiras. |
+| 📊 Calcular saldo | Atualizar automaticamente o saldo disponível. |
+| 📈 Totalizar receitas | Exibir o valor total das entradas. |
+| 📉 Totalizar despesas | Exibir o valor total das saídas. |
+| 📅 Registrar datas | Informar a data das movimentações. |
+| 🗑️ Excluir movimentações | Remover registros cadastrados. |
+| 💾 Salvar informações | Armazenar os dados no navegador utilizando `localStorage`. |
+| 📱 Interface responsiva | Adaptar a apresentação a diferentes dispositivos. |
 
 ---
 
 ## 🛠️ Tecnologias Utilizadas
 
-| Tecnologia | Utilização |
-|---|---|
-| HTML5 | Estrutura das páginas e formulários |
-| CSS3 | Estilização e responsividade |
-| JavaScript | Lógica da aplicação e cálculos financeiros |
-| LocalStorage | Armazenamento dos registros no navegador |
+### 🌐 HTML5
+Utilizado para estruturar os elementos da aplicação.
 
-O projeto utiliza JavaScript puro, sem frameworks.
+### 🎨 CSS3
+Responsável pela estilização, organização visual e responsividade.
+
+### ⚡ JavaScript
+Utilizado para implementar as funcionalidades, realizar cálculos financeiros e atualizar dinamicamente as informações.
+
+### 💾 LocalStorage
+Permite salvar os registros financeiros diretamente no navegador, mantendo os dados disponíveis após fechar a página.
 
 ---
 
@@ -90,70 +107,86 @@ controle-de-gastos/
 
 ---
 
-## 💻 Como Executar
+## 💻 Como Executar Localmente
 
-Para executar o projeto localmente:
+Para utilizar o MeuBolso no computador:
 
-1. Baixe ou clone este repositório.
-2. Abra a pasta do projeto.
-3. Execute o arquivo `index.html` em um navegador.
+1. Faça o download dos arquivos deste repositório.
+2. Extraia os arquivos para uma pasta.
+3. Abra o arquivo `index.html` no navegador.
+4. Cadastre receitas e despesas para acompanhar suas movimentações.
 
-Não é necessário instalar dependências.
+**Não é necessário instalar dependências.**
 
-Também é possível utilizar a extensão Live Server no Visual Studio Code.
-
----
-
-## 🌐 Demonstração
-
-O projeto está disponível para acesso pelo GitHub Pages.
-
-### **[🚀 Testar o MeuBolso](https://erickandrad07.github.io/controle-de-gastos/)**
-
-Os registros são armazenados no próprio navegador. Por isso, os dados inseridos em um dispositivo não aparecem automaticamente em outro.
+Também é possível abrir o projeto no Visual Studio Code e utilizar a extensão Live Server.
 
 ---
 
-## 📚 O que estou estudando com este projeto
+## 🌐 Demonstração Online
 
-O desenvolvimento e a análise do MeuBolso envolvem conceitos importantes de programação:
+O projeto pode ser acessado gratuitamente pelo GitHub Pages após a publicação.
 
-- Manipulação de elementos HTML com JavaScript.
-- Captura e validação de dados de formulários.
-- Utilização de eventos.
-- Operações matemáticas e atualização de valores.
-- Manipulação de arrays e objetos.
-- Armazenamento e recuperação de dados com `localStorage`.
-- Organização do código em funções.
-- Construção de interfaces responsivas.
+### 🚀 [ACESSAR MEUBOLSO — TESTAR AGORA](https://erickandrad07.github.io/controle-de-gastos/)
+
+**Endereço do aplicativo:**
+
+`https://erickandrad07.github.io/controle-de-gastos/`
 
 ---
 
-## 🔧 Melhorias Futuras
+## 📈 Próximas Melhorias
 
-Algumas funcionalidades que pretendo explorar nas próximas versões:
+O MeuBolso poderá evoluir com novas funcionalidades:
 
-- Edição de receitas e despesas.
-- Categorias para organizar os gastos.
-- Filtros por mês e período.
-- Gráficos para visualizar as movimentações.
-- Exportação de dados.
-- Modo escuro.
-- Integração com banco de dados.
+- ✏️ Edição de movimentações financeiras.
+- 📊 Gráficos de receitas e despesas.
+- 🗂️ Organização de gastos por categorias.
+- 📅 Filtros por datas e períodos.
+- 🎯 Definição de metas financeiras.
+- 📥 Exportação de relatórios.
+- 🌙 Alternância entre tema claro e escuro.
+- ☁️ Integração com banco de dados.
 
 ---
 
-## 👨‍💻 Sobre Mim
+## 🔒 Armazenamento e Limitações
 
-Olá! Sou **Erick Andrade**, estudante de Análise e Desenvolvimento de Sistemas.
+As informações são armazenadas localmente no navegador utilizando `localStorage`.
 
-Tenho interesse em programação e estou explorando diferentes áreas da tecnologia para desenvolver meus conhecimentos e descobrir novas possibilidades de atuação.
+Isso significa que:
 
-Este repositório faz parte do meu portfólio, onde compartilho projetos de estudo e acompanho minha evolução.
+- Os dados não são sincronizados entre dispositivos.
+- Os registros podem ser perdidos caso os dados do navegador sejam apagados.
+- A aplicação não possui integração com bancos ou instituições financeiras.
+- O projeto possui finalidade educacional e demonstrativa.
 
-Atualmente, estou em busca de uma **oportunidade de estágio em TI**, para colocar meus conhecimentos em prática, aprender com outros profissionais e adquirir experiência na área.
+---
+
+## 🎯 Objetivo de Aprendizado
+
+Este projeto representa mais uma etapa da minha jornada de formação em tecnologia.
+
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e estou desenvolvendo conhecimentos em programação, lógica e desenvolvimento de aplicações web.
+
+Meu objetivo é construir um portfólio que demonstre minha evolução técnica, minha capacidade de aprendizado e meu interesse por diferentes áreas da tecnologia.
+
+Atualmente, estou em busca da minha **primeira oportunidade de estágio em TI**, na qual possa adquirir experiência profissional, colaborar com equipes de desenvolvimento e continuar evoluindo.
+
+---
+
+## 👨‍💻 Sobre o Desenvolvedor
 
 <div align="center">
+
+### Erick Andrade
+
+🎓 Estudante de Análise e Desenvolvimento de Sistemas
+
+💻 Explorando diferentes áreas da tecnologia
+
+🚀 Em busca de estágio em TI
+
+<br>
 
 <a href="https://github.com/Erickandrad07">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
@@ -167,8 +200,20 @@ Atualmente, estou em busca de uma **oportunidade de estágio em TI**, para coloc
 
 ---
 
+## 🤖 Transparência sobre o Desenvolvimento
+
+Este projeto foi elaborado como material de estudo com auxílio de ferramentas de inteligência artificial.
+
+A proposta é utilizar o código como base para aprendizado, experimentação, personalização e implementação de novas funcionalidades.
+
+---
+
 <div align="center">
 
-**Erick Andrade | Estudante de Análise e Desenvolvimento de Sistemas**
+### 💙 Aprender, praticar e evoluir!
+
+**Cada projeto representa mais um passo na construção da minha carreira em tecnologia.**
+
+⭐ Se gostou do projeto, considere deixar uma estrela no repositório!
 
 </div>
