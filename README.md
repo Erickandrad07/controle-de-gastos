@@ -134,7 +134,7 @@ O projeto pode ser acessado gratuitamente pelo GitHub Pages após a publicação
 
 ---
 
-## 📈 Próximas Melhorias
+## 📈 Próximas Melhorias 
 
 O MeuBolso poderá evoluir com novas funcionalidades:
 
